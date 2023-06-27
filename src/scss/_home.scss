@@ -1,0 +1,13 @@
+.home-container {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(
+      to bottom right,
+      rgba(252, 252, 252, 0.423),
+      rgba(0, 29, 103, 0.893)
+    ),
+    url("../asset/bgTravelBooking.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

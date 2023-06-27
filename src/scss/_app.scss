@@ -1,0 +1,12 @@
+
+  
+.app-container {
+  display: grid;
+  grid-template-rows: 10vh 80vh 10vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
